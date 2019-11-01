@@ -1,0 +1,9 @@
+TOKEN = '935077797:AAGVgap1V6KFb5Bfl9CMwipUP3vyU7pRqLE'
+
+DB_NAME = 'studybotdb'
+DB_PASSWORD = 'vlad1550vlad1550'
+DB_HOST = 'localhost'
+DB_USER = 'root'
+
+ADMINS = []
+DEVELOPER_ID = 326469336
